@@ -1,0 +1,30 @@
+.calculator{
+	position: absolute;
+	background-color: lightgray;
+	left: 45px;
+	bottom: 120px;
+	height: 365px; 
+    width: 201px;
+    border: 2px solid gray;
+    border-radius: 2%;
+    padding: 0px 10px;
+    z-index: 1;
+}
+
+.calc_text{
+	font-size: 14px;
+	text-align: center;
+}
+
+button{
+	margin-top: 5px;
+}
+
+.button_right{
+	float: right;
+}
+
+.calculator input[type='submit']{
+	position: absolute;
+	bottom: 20px;
+}
