@@ -157,7 +157,7 @@ if(isset($_POST['calculator']))
 <p>Германия: +491234567890</p>
 <p>Местоположение штаб квартиры: г. Киев, ул. Первая, д. 1</p>
 <p>Почтовый адрес: airplanesua@gmail.com</p>
-<p>This site created by <a href="https://www.upwork.com/o/profiles/users/_~0195cd9d97f469ca75/">LazB</a></p>
+<p>This site created by <a href="https://github.com/enferlazt">LazB</a></p>
 <p>© All rights reserved</p>
 </div>
 </div>
